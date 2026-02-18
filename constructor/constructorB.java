@@ -14,6 +14,7 @@ class teacher{
 public class constructorB{
     public static void main(String[] args) {
         teacher t1 = new teacher(2, "Aman");
+
     }
 
 }
