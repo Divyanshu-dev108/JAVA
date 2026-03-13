@@ -1,0 +1,7 @@
+Binary Search - Works on Sorted array (but some time it can work on unsorted array).
+
+   LOW              High
+    |                 |
+  [ 2 4 6 8 10 12 14 16]    , Target = 16 
+
+  LOW          HIGH           Mid(Low + HIGH / 2)

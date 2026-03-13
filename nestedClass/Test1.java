@@ -1,5 +1,9 @@
 
 // Static Nested class - a static class inside a class
+// 1- Static nested class
+// 2 - inner class
+// 3 - local class
+// 4 - Argument class
 package nestedClass;
 
 class Outer {
